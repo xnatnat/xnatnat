@@ -24,7 +24,7 @@
 </p>
 
 
-### - Linguagens (Programação, Marcação, Estilização, etc)
+### - Languages (Programming, Markup, Styling, ++)
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -42,7 +42,7 @@
 </p>
 
 
-### - Controle de repositórios e versionamento
+### - Repository control and versioning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
